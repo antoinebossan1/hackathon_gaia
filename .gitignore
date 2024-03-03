@@ -1,0 +1,16 @@
+.env
+hackaton_venv/
+
+*.csv
+*.xls
+*.json
+
+llm_data_augmentation/RAG/medicines_management/data/chroma_db
+
+data/
+llm_data_augmentation/RAG/medicines_management/chroma_db_nccn
+commands.md
+
+
+__pycache__/
+*.py[cod]
